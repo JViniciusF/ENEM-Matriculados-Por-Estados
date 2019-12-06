@@ -10,7 +10,7 @@ Ja com base no numero de ingressantes podemos perceber uma inconsistencia nos da
 
 Outro exemplo dessa distorcao de dados é que o numero de ingressantes no estados de Minas Gerais ultrapassa o numero de Sao Paulo. Porem o numero de instituições publicas no estado de Sao Paulo é 5 vezes maior do que no estado de Minas gerais, como vemos a seguir:
 
-![Numero de instituições](https://raw.githubusercontent.com/JViniciusF/Matriculados-X-Estados/master/Resultados/Numero%20de%20instituicoes.png)
+![Numero de instituições](https://github.com/JViniciusF/Matriculados-X-Estados/blob/master/Resultados/Institui%C3%A7oes.png)
 
 
 Com os dados de numero de inscritos, foi possivel chegar a conclusao dos estados que possuem faculdades / universidades com maior numero de aluno participantes dos processos seletivos, e de como ocorre a concorrencia para uma vaga nas faculdades requisitadas 
