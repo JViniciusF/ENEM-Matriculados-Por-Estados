@@ -1,4 +1,6 @@
-# Matriculados -x- Estados
+
+# ENEM - Matriculados por Estados
+
 O objetivo com os dados , baseado na ideia principal, é ultilizar as o numero de matriculados em ensino superior para obter dados como a media para cada estado, fazer comparacao das medias entre cada estado.
 E compara a quantidade de vaga oferecida com o numero de ingressantes e o numero de inscritos
 
@@ -16,3 +18,13 @@ Outro exemplo dessa distorcao de dados é que o numero de ingressantes no estado
 Com os dados de numero de inscritos, foi possivel chegar a conclusao dos estados que possuem faculdades / universidades com maior numero de aluno participantes dos processos seletivos, e de como ocorre a concorrencia para uma vaga nas faculdades requisitadas 
 
 ![Numero de inscrições](https://github.com/JViniciusF/Matriculados-X-Estados/blob/master/Resultados/Numero%20de%20Inscricoes.png)
+
+#Conclusão
+O projeto abordado em questão foi desenvolvido com intuito de aprendizado e introdução á raspagem de dados ultilizando primeiramente o Jupyter Notebook , baseado na linguagem python, a biblioteca Pandas, ultilizada para tratar os dados, obtidos no site do INEP e por fim a biblioteca Seaborn ultilizada para gerar e ilustrar os graficos
+
+Referencias:
+Jupyter: (https://jupyter.org/)
+Pandas: (https://pandas.pydata.org/)
+Inep Data: (http://inep.gov.br/inep-data)
+Seaborn: (https://seaborn.pydata.org/)
+
