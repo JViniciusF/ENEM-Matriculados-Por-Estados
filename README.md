@@ -19,7 +19,7 @@ Com os dados de numero de inscritos, foi possivel chegar a conclusao dos estados
 
 ![Numero de inscrições](https://github.com/JViniciusF/Matriculados-X-Estados/blob/master/Resultados/Numero%20de%20Inscricoes.png)
 
-#Conclusão
+# Conclusão
 O projeto abordado em questão foi desenvolvido com intuito de aprendizado e introdução á raspagem de dados ultilizando primeiramente o Jupyter Notebook , baseado na linguagem python, a biblioteca Pandas, ultilizada para tratar os dados, obtidos no site do INEP e por fim a biblioteca Seaborn ultilizada para gerar e ilustrar os graficos
 
 Referencias:
